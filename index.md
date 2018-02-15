@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+	<body bgcolor="PowderBlue">
+	<head>
+		<title>Ryan Block</title>
+	</head>
 
-You can use the [editor on GitHub](https://github.com/RyanBlockWebsite/Ryan-s-Website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+	<body>
+		<CENTER>
+			<h1 style="color:Green;">Ryan Block</h1>
+			<h3 style="color:DodgerBlue;">Business Marketing Student at The University of Maine</h3>
+			<h4 style="color: Tomato">Hello, and welcome to my web page!</h4><b>I am a 3rd year business marketing major from the small town of Sudbury, in Massachusetts!  I love playing sports and hanging out with my friends, (especially when I can combine the two) and also love sepnding time with my family.  I have an internship over the summer in Boston at a company called Datto, where I work as a sales engineer.  Explore the rest of the cite to find out more about me!</b>
+		</CENTER>
+	</body>
+	
+	<p style ="text-align:left;">
+		<a href="Ryan Block Professional.html">Click here to find out more about my professional career</a>
+		<span style="float:right;"><a href="Ryan Block Sports.html">Click here to find out more about the sports I like</a>
+		</span>
+		<center>
+			<a href="Ryan Block Family.html">Click here to find out more about my family</a>
+		</center>
+	</p>
 
-### Markdown
+	<p>
+		<center>
+			<img src="RyanPhoto.jpg" width="400" height="500">
+		</center>
+	</p>
+	
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RyanBlockWebsite/Ryan-s-Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
